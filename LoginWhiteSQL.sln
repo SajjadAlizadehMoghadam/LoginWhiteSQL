@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWhiteSQL", "LoginWhiteSQL\LoginWhiteSQL.csproj", "{D45A2E39-6DED-423E-BD38-7EA306F5DE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45A2E39-6DED-423E-BD38-7EA306F5DE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45A2E39-6DED-423E-BD38-7EA306F5DE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45A2E39-6DED-423E-BD38-7EA306F5DE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45A2E39-6DED-423E-BD38-7EA306F5DE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5422255D-3332-4A45-954A-3AE9E2AEA567}
+	EndGlobalSection
+EndGlobal
